@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<normalpath>rm_pics//normal//</normalpath>
+<targetpath>rm_pics//target//</targetpath>
+<numberpath>test_images//</numberpath>
+<maxNumber>892</maxNumber>
+<delayTime>3000</delayTime>
+</opencv_storage>
